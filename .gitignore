@@ -1,0 +1,30 @@
+# Virtual environments
+.venv/
+.venv312/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Thesis writing / documents
+thesis/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Unused / superseded files
+untitled.py
+data/processed/eur_weekly_model_ready.csv
